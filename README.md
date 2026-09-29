@@ -19,7 +19,7 @@ I'm a full-stack developer based in **Gurugram, India** with **4+ years** of bui
 
 These days I build with AI coding agents in the loop: I design the system and review the code while the agents do the scaffolding, testing and deployment. I also write tutorials on web dev, AI, Python and DevOps at **[CodeCraft](https://codecraft-murex.vercel.app)**.
 
-- 🔭 **Now building:** client projects at PixelWeb Tech, **Bhajoshom**, and AI-automated dev workflows (Git → CI/CD → deploy)
+- 🔭 **Now building:** [**Sahayak AI**](https://github.com/alokjaiss/sahyak-ai), an open-source AI assistant for business websites, plus client projects at PixelWeb Tech and **Bhajoshom**
 - 🌱 **Exploring:** agentic workflows, TypeScript-first backends, edge deployments
 - 🤝 **Open to:** freelance projects, full-time full-stack roles, collaborations
 - ⚡ **Fun fact:** I'm into psychology, and it shapes how I think about UX
@@ -42,7 +42,7 @@ These days I build with AI coding agents in the loop: I design the system and re
 | **Cloud & DevOps** | AWS (S3, EC2, Lambda, CloudFront, IAM), GCP, Docker, GitHub Actions, Vercel, Netlify |
 | **Payments** | Stripe, Razorpay (with webhook-based failure recovery) |
 | **Testing** | Jest, React Testing Library, Postman |
-| **AI tooling** | Claude Code, Gemini API, agent-driven workflows |
+| **AI / LLM** | RAG, pgvector hybrid search, tool calling, streaming, evals · Anthropic & OpenAI SDKs, Gemini API, Claude Code |
 
 ---
 
@@ -50,6 +50,7 @@ These days I build with AI coding agents in the loop: I design the system and re
 
 | Project | What it is | Stack | Live |
 |---|---|---|---|
+| **[Sahayak AI](https://github.com/alokjaiss/sahyak-ai)** ⭐ | Open-source AI website assistant: RAG with hybrid search, tool calling, SSE streaming, Hindi/English, multi-tenant SaaS, evals in CI | TypeScript, Node, Express, React, PostgreSQL + pgvector, Claude/OpenAI, Docker, GitHub Actions | [📂 Code](https://github.com/alokjaiss/sahyak-ai) |
 | **[PixelWeb Tech](https://pixelwebtech.netlify.app)** | My web agency: business sites, e-commerce with Razorpay/UPI, and custom web apps | HTML/CSS/JS, WordPress, Razorpay, Netlify | [🔗 Visit](https://pixelwebtech.netlify.app) |
 | **[WebDevRef](https://github.com/alokjaiss/rapid-web-development)** | Reference site covering the laws of web dev, a 7-phase workflow and how AI agents speed up delivery | HTML, CSS, JS | [🔗 Visit](https://alokjaiss.github.io/rapid-web-development/) |
 | **[LaunchHub](https://github.com/alokjaiss/launchhub-directory)** | A dashboard and directory for all my web apps, dev tools and bookmarks | HTML, CSS, JS | — |

@@ -1,84 +1,91 @@
-<h1 align="center">Hi, I'm Alok Jaiswal 👋</h1>
-<h3 align="center">Full Stack Developer · React · Node.js · TypeScript · AWS · AI/LLM Apps</h3>
-<p align="center">📍 Gurugram, India · Founder of <a href="https://pixelwebtech.netlify.app">PixelWeb Tech</a> · Open to full-time roles &amp; freelance</p>
+<h1 align="center">Alok Jaiswal</h1>
 
 <p align="center">
-  <a href="mailto:jaisss.alok@gmail.com"><img src="https://img.shields.io/badge/Email-jaisss.alok%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://alokjaiss.github.io/Resume/"><img src="https://img.shields.io/badge/Resume-View_online-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
-  <a href="https://pixelwebtech.netlify.app"><img src="https://img.shields.io/badge/Agency-PixelWeb_Tech-0EA5E9?style=for-the-badge&logo=netlify&logoColor=white" alt="PixelWeb Tech"/></a>
-  <a href="https://codecraft-murex.vercel.app"><img src="https://img.shields.io/badge/Blog-CodeCraft-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="CodeCraft blog"/></a>
-  <a href="https://www.linkedin.com/in/alokjais/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://img.shields.io/badge/Open_to-Freelance_%26_Full--time-22C55E?style=for-the-badge" alt="Open to work"/>
+  <b>Full-stack engineer · 5 years · I build and run AI-powered products end to end</b><br/>
+  TypeScript · React / Next.js · Node.js · PostgreSQL · AWS · LLM apps (RAG, agents, evals)
 </p>
-
----
-
-### 🚀 About me
-
-I'm a full-stack developer based in **Gurugram, India** with **4+ years** of building production web apps. Since Dec 2025 I've run **[PixelWeb Tech](https://pixelwebtech.netlify.app)**, my own web agency, which builds websites, e-commerce stores and custom web apps for Indian businesses. Before that, at **DXC Technology**, I shipped MERN applications serving **15,000+ daily users**, cut page latency by **28%**, and replaced a vendor reporting tool with in-house dashboards that saved **$18K a year**.
-
-These days I build with AI coding agents in the loop: I design the system and review the code while the agents do the scaffolding, testing and deployment. I also write tutorials on web dev, AI, Python and DevOps at **[CodeCraft](https://codecraft-murex.vercel.app)**.
-
-- 🔭 **Now building:** [**Sahayak AI**](https://github.com/alokjaiss/sahyak-ai), an open-source AI assistant for business websites, plus client projects at PixelWeb Tech and **Bhajoshom**
-- 🌱 **Exploring:** agentic workflows, TypeScript-first backends, edge deployments
-- 🤝 **Open to:** freelance projects, full-time full-stack roles, collaborations
-- ⚡ **Fun fact:** I'm into psychology, and it shapes how I think about UX
-
----
-
-### 🛠️ Tech stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,python,fastapi&perline=10" alt="Languages and frameworks"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws,gcp,docker,githubactions,vercel,netlify,supabase&perline=10" alt="Data, cloud and DevOps"/>
-</p>
-
-| Area | Tools |
-|---|---|
-| **Frontend** | React, Next.js, Redux Toolkit, Tailwind CSS, Vite |
-| **Backend** | Node.js, Express, Socket.IO, FastAPI, REST, JWT / OAuth 2.0, RBAC |
-| **Data** | MongoDB, PostgreSQL, Redis caching |
-| **Cloud & DevOps** | AWS (S3, EC2, Lambda, CloudFront, IAM), GCP, Docker, GitHub Actions, Vercel, Netlify |
-| **Payments** | Stripe, Razorpay (with webhook-based failure recovery) |
-| **Testing** | Jest, React Testing Library, Postman |
-| **AI / LLM** | RAG, pgvector hybrid search, tool calling, streaming, evals · Anthropic & OpenAI SDKs, Gemini API, Claude Code |
-
----
-
-### 🌟 Featured projects
-
-| Project | What it is | Stack | Live |
-|---|---|---|---|
-| **[Sahayak AI](https://github.com/alokjaiss/sahyak-ai)** ⭐ | Open-source AI website assistant: RAG with hybrid search, tool calling, SSE streaming, Hindi/English, multi-tenant SaaS, evals in CI | TypeScript, Node, Express, React, PostgreSQL + pgvector, Claude/OpenAI, Docker, GitHub Actions | [📂 Code](https://github.com/alokjaiss/sahyak-ai) |
-| **[PixelWeb Tech](https://pixelwebtech.netlify.app)** | My web agency: business sites, e-commerce with Razorpay/UPI, and custom web apps | HTML/CSS/JS, WordPress, Razorpay, Netlify | [🔗 Visit](https://pixelwebtech.netlify.app) |
-| **[WebDevRef](https://github.com/alokjaiss/rapid-web-development)** | Reference site covering the laws of web dev, a 7-phase workflow and how AI agents speed up delivery | HTML, CSS, JS | [🔗 Visit](https://alokjaiss.github.io/rapid-web-development/) |
-| **[LaunchHub](https://github.com/alokjaiss/launchhub-directory)** | A dashboard and directory for all my web apps, dev tools and bookmarks | HTML, CSS, JS | — |
-| **[Vasudev Kutumbkam](https://github.com/alokjaiss/vasudev_kutumbkam)** | An interactive "One Earth, One Family" site about global unity | HTML, CSS, JS | [🔗 Visit](https://alokjaiss.github.io/vasudev_kutumbkam/) |
-| **[CS-IA Sharing](https://github.com/alokjaiss/cs-ia-sharing)** | Full-stack app with AI (Gemini) integration | FastAPI, Python, React, Vite, Tailwind | — |
-| **[Interactive Resume](https://github.com/alokjaiss/Resume)** | My résumé as a web page, with frontend, backend and DevOps variants | HTML, CSS, JS | [🔗 Visit](https://alokjaiss.github.io/Resume/) |
-| **HiBuddy** *(private)* | Real-time chat with search across 10K+ messages, socket failover and JWT/RBAC | Node, Socket.IO, PostgreSQL, Redis, React | — |
-| **ShoppersAdda** *(private)* | E-commerce engine with Razorpay checkout and an admin dashboard | React, Redux, Express, MongoDB | — |
-
----
-
-### 🏆 Highlights
-
-- 🚀 **Lighthouse 72 → 94** and **35% fewer re-renders** after a React/Redux refactor
-- ⚡ **40% fewer DB reads** thanks to Redis caching and custom query parsers
-- 💳 **99.9% payment success rate** on Stripe/Razorpay integrations
-- 🧑‍🏫 Mentored 3 junior devs and set up CI and testing that cut post-release bugs by **30%**
-- ☁️ **AWS Certified Cloud Practitioner** · 🎓 MCA, Integral University (84%, Distinction)
-
----
-
-### 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alokjaiss&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=alokjaiss&hide_border=true&theme=transparent" alt="GitHub streak"/>
+  <sub>263 merged PRs and 38 releases on a live product since June 2026 · LLM features gated by evals in CI · MERN apps for 15,000+ daily users at DXC Technology</sub>
+</p>
+
+<p align="center">
+  Gurugram, India · Open to Senior Full-Stack and Product Engineer roles (Gurugram, Bengaluru or remote)<br/>
+  <a href="mailto:jaisss.alok@gmail.com">jaisss.alok@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/alokjais/">LinkedIn</a> ·
+  <a href="https://alokjaiss.github.io/Resume/">Resume</a> ·
+  <a href="https://codecraft-murex.vercel.app">Blog</a>
 </p>
 
 ---
 
-<p align="center"><i>Always happy to talk about web apps, automation or psychology. Say hi! ✉️</i></p>
+### About
+
+I've shipped production web apps for 5 years. I spent four of them at DXC Technology building MERN applications for enterprise clients. Since December 2025 I've run PixelWeb Tech, where I design, build and operate products for paying clients.
+
+I own work from the first issue to the production dashboard: AI features with evals in CI, releases behind a review-and-test gate, and decision records that explain why.
+
+### Selected work
+
+**[Sahayak AI](https://github.com/alokjaiss/sahyak-ai)**: an open-source AI assistant any business adds to its website with one script tag. It answers visitors in Hindi and English from the business's own content, cites its sources, captures leads and hands off to WhatsApp.
+
+- Hybrid retrieval: pgvector (HNSW) and Postgres full-text search in one SQL query, merged with Reciprocal Rank Fusion
+- A provider-agnostic tool-calling agent loop streamed over SSE (Claude, OpenAI-compatible APIs, and an offline model for CI)
+- An eval suite that gates CI at 85%. Its first run scored 63% and exposed Hindi tokenisation bugs; the fixes took it to 100%
+- Multi-tenant and secure by default: hashed keys, origin allow-lists, rate limits, SSRF-safe ingestion. 52 tests run on PGlite and Postgres 16
+- `TypeScript` `Node.js` `React` `PostgreSQL + pgvector` `Docker` `GitHub Actions`
+
+**[Bhajoshom](https://bhajoshom.com)**: a live music and meditation platform. I've built and operated it since June 2026: 418 commits, 263 merged PRs and 38 releases, every change going issue → branch → reviewed PR → release.
+
+- Next.js 16 (App Router) and React 19 on Supabase (PostgreSQL, Auth, Realtime); audio in a private Cloudflare R2 bucket served only through a Worker
+- Co-listening rooms on Supabase Realtime, lock-screen and media-key control, and an installable PWA
+- An admin CMS with signed sessions, bulk track management and direct-to-R2 uploads
+- Architecture decisions recorded as ADRs, such as "serve stale or fail loudly, never mock data" and "withdraw records instead of deleting them"
+- `Next.js` `TypeScript` `Supabase` `Cloudflare Workers` `R2` `Zustand` `Tailwind CSS` · Client project, so the code is private
+
+**[Sanatan Dharma Wiki](https://sanatan-dharma-wiki.vercel.app)**: an open, source-cited encyclopedia ([code](https://github.com/alokjaiss/sanatan-dharma-wiki)). Astro and TypeScript, with content validation in CI and a review flow in which AI drafts and humans approve every change through pull requests.
+
+<!--
+Uncomment when the Hisaab repo is public (Milestone 1):
+
+**[Hisaab](https://github.com/alokjaiss/hisaab)**: a payments and ledger platform built never to double-charge. Idempotent APIs, a double-entry ledger in PostgreSQL, Razorpay webhooks through a transactional outbox to Kafka, OpenTelemetry traces end to end, and load tests in CI.
+-->
+
+### Experience
+
+**Founder and Full-Stack Engineer, PixelWeb Tech** · Gurugram · Dec 2025 – present
+- Design, build and operate client products end to end, including Bhajoshom and Sahayak AI
+- Build e-commerce sites for Indian businesses with Razorpay, UPI and cash-on-delivery payments
+
+**Software Engineer, DXC Technology** · Mumbai · Nov 2021 – Nov 2025 (promoted Aug 2023)
+- Built and scaled MERN applications serving 15,000+ daily active users, and cut page load latency by 28%
+- Replaced a third-party reporting tool with in-house React and PostgreSQL dashboards, saving $18,000 a year
+- Added Redis caching and query optimisation that cut database reads by 40%
+- Mentored 3 junior developers, and set up linting, CI and Jest tests that cut post-release bugs by 30%
+
+### How I work
+
+- **Every change is traceable.** Issue → branch → PR with a walkthrough → review → release notes.
+- **Decisions are written down.** ADRs record what was chosen, what was rejected, and why.
+- **Quality is measured.** Tests and type checks gate merges, and LLM features ship behind evals.
+- **AI agents speed me up; I own what ships.** I use Claude Code daily. I design the system, review every diff, and keep tests as the gate.
+
+### Stack
+
+| | Production experience | Building now (Q4 2026) |
+|---|---|---|
+| **Languages** | TypeScript, JavaScript, SQL | Python (FastAPI) |
+| **Frontend** | React, Next.js, Redux Toolkit, Zustand, Tailwind CSS | Playwright end-to-end tests |
+| **Backend** | Node.js, Express, REST, SSE, WebSockets, JWT, OAuth 2.0, RBAC | Kafka (Redpanda), transactional outbox |
+| **Data** | PostgreSQL (pgvector, full-text search), Supabase, MongoDB, Redis | |
+| **Cloud and DevOps** | Docker, GitHub Actions, AWS (S3, CloudFront, EC2, Lambda), Cloudflare Workers and R2, Vercel | Kubernetes (Helm), Terraform, AWS ECS, RDS and SQS |
+| **AI** | RAG, hybrid search, tool calling, agent loops, LLM evals, Anthropic and OpenAI SDKs | Tracing for AI agents |
+| **Quality and ops** | Vitest, Jest, React Testing Library | OpenTelemetry, Grafana, k6 load tests |
+
+### Writing
+
+I write tutorials on web development, AI, Python and DevOps at [CodeCraft](https://codecraft-murex.vercel.app).
+
+---
+
+<p align="center">Hiring for a full-stack or AI product role? Email me at <a href="mailto:jaisss.alok@gmail.com">jaisss.alok@gmail.com</a>.</p>
